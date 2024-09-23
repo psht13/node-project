@@ -1,2 +1,1 @@
-# node-project
-Sample nodejs project
+# Example Node.js project
