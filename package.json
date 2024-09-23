@@ -4,6 +4,7 @@
   "description": "Example Node.js application",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "lint": "eslint .",
     "test": "npm run lint && node test/all"
   },
